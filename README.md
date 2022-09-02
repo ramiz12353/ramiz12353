@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ramiz12353
-- 👀 I’m interested in JavaScript,CSS
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in JavaScript,CSS,HTML
+- 🌱 I’m a total beginner
+- 💞️ Any help with learning is desirable
 - 📫 How to reach me ...
 
 <!---
